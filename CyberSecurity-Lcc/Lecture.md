@@ -1,5 +1,7 @@
 ## Cybersecurity practices in web developer's life
 
+https://github.com/JauniusPinelis/Lectures/blob/main/CyberSecurity-Lcc/Lecture.md
+
 ## About me
 
 Professional web developer for 9 years.
@@ -91,10 +93,14 @@ https://identityserver4.readthedocs.io/en/latest/
 Sign in with external provider
 https://developers.google.com/identity/sign-in/web/sign-in
 
-
 ### Features vs Security
 
-- Encrypt data?
+- Encrypt data in Drive, Database?
+- What can be installed on your laptop and not?
+- What accesses can be granted to new starters. 
+- Access removal when employee leaves.
+- Disgrunted employees
+- Is my code compliant with GDPR?
 - Store data locally?
 - How to store passwords?
 - Where to store documents?
