@@ -38,6 +38,7 @@ Twillio Sms Use case:
 https://www.twilio.com/
 
 What is an API:
+https://jsonplaceholder.typicode.com/
 https://api.twilio.com
 
 Authentication:
@@ -69,8 +70,14 @@ https://www.skidsolutions.eu/en/News/important-changes-in-smart-id-certificates
 
 ### Oauth2/Identity Server
 
+Architecture in NetFlix:
+https://www.google.com/search?q=netflix+microservices
+
 The security challenge of microservices
 https://raw.githubusercontent.com/dotnet-architecture/eShopOnContainers/dev/img/eShopOnContainers-architecture.png
+
+Securing multi products:
+https://www.google.com/search?q=google+products
 
 Selling a technology:
 https://documenter.getpostman.com/view/6997242/S1TZwaZe
@@ -81,14 +88,13 @@ https://oauth.net/2/
 Identity Server 4:
 https://identityserver4.readthedocs.io/en/latest/
 
+Sign in with external provider
+https://developers.google.com/identity/sign-in/web/sign-in
+
 
 ### Features vs Security
 
-The CityBee incident:
-https://www.lrt.lt/en/news-in-english/19/1346403/hacker-who-leaked-citybee-user-data-tells-media-cyber-security-was-poor
-
 - Encrypt data?
-- 
 - Store data locally?
 - How to store passwords?
 - Where to store documents?
@@ -100,4 +106,15 @@ https://www.lrt.lt/en/news-in-english/19/1346403/hacker-who-leaked-citybee-user-
 - Social engineering
 - Ethical hacking
 
+### The unpleasant part
+
+The CityBee incident:
+https://www.lrt.lt/en/news-in-english/19/1346403/hacker-who-leaked-citybee-user-data-tells-media-cyber-security-was-poor
+
+Heroku incident:
+https://www.bleepingcomputer.com/news/security/heroku-admits-to-customer-database-hack-after-oauth-token-theft/
+https://thestack.technology/github-hacked-npm-data-downloaded-in-an-evolving-supply-chain-attack/
+
+Cryptoware attacks:
+https://cloudian.com/ransomware-attack-list-and-alerts/
 
