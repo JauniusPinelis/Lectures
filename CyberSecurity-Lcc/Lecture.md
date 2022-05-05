@@ -1,6 +1,6 @@
 ## Cybersecurity practices in web developer's life
 
-### About me
+## About me
 
 Professional web developer for 9 years.
 https://www.linkedin.com/in/jauniuspinelis/
@@ -11,7 +11,7 @@ https://www.ed.ac.uk/informatics/undergraduate/our-degrees/degree-overview
 Lecturer in Baltics Institute of Technology (2 years)
 https://bit.lt/destytojas/jaunius-pinelis/
 
-### Ondato
+## Ondato
 
 Ondato product:
 https://ondato.com/
@@ -25,7 +25,7 @@ https://ondato.com/security/
 - Security responsibility
 - Confidentiality
 
-### Cyber-security user-cases
+## Cyber-security user-cases
 
 The experiences of cyber-security practices/uses/flaws/lessons in my career (use cases):
 - mostly connected but not limited to .NET programming
@@ -79,8 +79,8 @@ https://raw.githubusercontent.com/dotnet-architecture/eShopOnContainers/dev/img/
 Securing multi products:
 https://www.google.com/search?q=google+products
 
-Selling a technology:
-https://documenter.getpostman.com/view/6997242/S1TZwaZe
+Selling a public api:
+https://docs.github.com/en/rest
 
 The complexity of Oauth2:
 https://oauth.net/2/
